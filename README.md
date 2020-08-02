@@ -10,7 +10,7 @@ After analysing Train & Test Data, I've observed that almost 90% of the Test IDs
 
 So, I want to give more importance to those IDs and the entries. So, I've assigned Segmentations to those entries available in the Test Data and concatenated with the Train Data for Training. I included the IDs for training.
 
-(i.e.) 
+(i.e.)
 No. of Training Data Entries = 8068
 No. of Test Data Entries     = 2627
 No. of Test Data Entries matching Training IDs = 2332
